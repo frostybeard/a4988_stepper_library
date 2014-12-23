@@ -4,6 +4,7 @@ a4988 stepper library for Arduino
 A stepper library for Arduino for Allegro a4988 microstepper boards.
 
 a4988 library - - Arduino library for using the a4988 stepper driver
+
 William Smith, 2014
   
 The A4988 stepper driver is for Pololu stepper driver boards
